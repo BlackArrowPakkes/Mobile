@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(230, 143, 14);
+ margin: auto;
+text-align: center;
+position: relative;
+}
+
+p {
+    text-decoration-color: aqua;
+    font-size: 25px;
+}
+ header {
+    position: relative;
+    background-color: rgb(236, 236, 236);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(37, 28, 28);}
